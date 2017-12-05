@@ -1,0 +1,25 @@
+{
+  "name": "frontend-demo-angularjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlad-74/frontend-demo-angularjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlad-74/frontend-demo-angularjs/issues"
+  },
+  "homepage": "https://github.com/vlad-74/frontend-demo-angularjs#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "help-functions": "^1.0.50",
+    "open": "0.0.5"
+  }
+}
